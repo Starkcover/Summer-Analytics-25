@@ -1,1 +1,1 @@
-repository for all the assingment of summer analytics
+repository for all the submitted assingment of summer analytics
